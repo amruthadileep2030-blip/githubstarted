@@ -1,0 +1,6 @@
+Amrutha
+
+git --version
+git init
+git add . filename.txt(extension)
+ls
